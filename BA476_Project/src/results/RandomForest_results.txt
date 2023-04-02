@@ -1,0 +1,7 @@
+best parameter{'max_depth': 22, 'max_leaf_nodes': 300, 'n_estimators': 600}
+Validation R^2: 0.4299706526937186
+Validation MAE: 0.5151255145653099
+Validation MSE: 0.4765515964719916
+Test R^2: 0.42038376376052156
+Test MAE: 0.49867854108094384
+Test MSE: 0.4280736849496376

@@ -1,0 +1,7 @@
+best parameter{'n_estimators': 100, 'learning_rate': 0.1, 'estimator': RandomForestRegressor()}
+Validation R^2: 0.47471782763475256
+Validation MAE: 0.4799326923076923
+Validation MSE: 0.4391424038461539
+Test R^2: 0.4696689003832891
+Test MAE: 0.4642923076923077
+Test MSE: 0.3916743076923077
